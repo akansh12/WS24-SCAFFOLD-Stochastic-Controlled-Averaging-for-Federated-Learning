@@ -1,4 +1,4 @@
 # WS24-SCAFFOLD-Stochastic-Controlled-Averaging-for-Federated-Learning
 SCAFFOLD: Stochastic Controlled Averaging for Federated Learning (Unofficial Implementation) 
 
-![](notebooks/sgd_trajectory.gif)
+![](notebooks/scaffold_trajectory.gif)
