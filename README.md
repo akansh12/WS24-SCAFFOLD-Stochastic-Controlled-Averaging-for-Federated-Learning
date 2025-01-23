@@ -20,4 +20,4 @@ f(W) = 0.5 \cdot (f_1(W) + f_2(W))
 $$
 
 ## Results
-![](images/scaffold_trajectory-ezgif.com-cut.gif)
+![](images/scaffold_trajectory.gif)
