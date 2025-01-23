@@ -20,4 +20,8 @@ f(W) = 0.5 \cdot (f_1(W) + f_2(W))
 $$
 
 ## Results
+The green curve shows the Scaffold while Orange curve shows SGD and magenta shows FedAvg. 
 ![](images/scaffold_trajectory.gif)
+
+## Reference:
+SCAFFOLD: Stochastic Controlled Averaging for Federated Learning Sai Praneeth Karimireddy, Satyen Kale, Mehryar Mohri, Sashank J. Reddi, Sebastian U. Stich, Ananda Theertha Suresh
