@@ -1,6 +1,7 @@
 # WS24-SCAFFOLD-Stochastic-Controlled-Averaging-for-Federated-Learning
 SCAFFOLD: Stochastic Controlled Averaging for Federated Learning (Unofficial Implementation) 
 
+![](images/Topic%207%20Presentation.jpg)
 
 ## Functions Definition
 
@@ -18,5 +19,5 @@ $$
 f(W) = 0.5 \cdot (f_1(W) + f_2(W))
 $$
 
-
-![](notebooks/scaffold_trajectory.gif)
+## Results
+![](images/scaffold_trajectory-ezgif.com-cut.gif)
